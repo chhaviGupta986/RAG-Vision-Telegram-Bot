@@ -1,0 +1,14 @@
+python-telegram-bot==20.7
+sentence-transformers
+faiss-cpu
+ollama
+torch
+torchvision
+Pillow
+numpy
+transformers
+accelerate
+python-dotenv
+requests
+langchain
+langchain-text-splitters
