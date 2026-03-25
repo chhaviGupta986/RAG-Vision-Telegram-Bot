@@ -8,6 +8,9 @@ Telegram bot that:
 ## System Flow
 <img width="1106" height="498" alt="image" src="https://github.com/user-attachments/assets/ac7cb0ee-a4a2-43fa-9bdb-27a7d8153efa" />
 
+## Demo
+https://github.com/user-attachments/assets/e7a4d33e-eea9-4ccb-ad3b-87520d51a177
+
 ## What This Project Covers
 
 - End-to-end RAG flow with local vector search
